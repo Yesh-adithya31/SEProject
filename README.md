@@ -5,7 +5,7 @@
 ## About The Project
 
 ### React-Native CRIME Uploading Mobile App using REST-API Integration
-How It works:
+How It works: [Watch Video](https://drive.google.com/file/d/1hfYGlrH3jd5G1w53WtDTnbcK0twxHNNp/view?usp=sharing)
 - Login, Registration, Splash Screens
   <div style="display: flex; justify-content: space-between; height: 550px;">
     <img src="assets/10.jpeg" alt="Image Description" style="width: 30%;">
