@@ -8,22 +8,22 @@
 How It works:
 - Login, Registration, Splash Screens
   <div style="display: flex; justify-content: space-between; height: 550px;">
-    <img src="assets/10.jpeg" alt="Image Description" style="width: 33%;">
-    <img src="assets/3.jpeg" alt="Image Description" style="width: 33%;">
-    <img src="assets/9.jpeg" alt="Image Description" style="width: 33%;">
+    <img src="assets/10.jpeg" alt="Image Description" style="width: 30%;">
+    <img src="assets/3.jpeg" alt="Image Description" style="width: 30%;">
+    <img src="assets/9.jpeg" alt="Image Description" style="width: 30%;">
   </div>
 
 - Home Screen, Profile Screen
   <div style="display: flex; justify-content: space-between; height: 550px;">
-    <img src="assets/5.jpeg" alt="Image Description" style="width: 48%;">
-    <img src="assets/6.jpeg" alt="Image Description" style="width: 48%;">
+    <img src="assets/5.jpeg" alt="Image Description" style="width: 30%;">
+    <img src="assets/6.jpeg" alt="Image Description" style="width: 30%;">
   </div>
 
 - Crime Reporting Screen
   <div style="display: flex; justify-content: space-between; height: 550px;">
-    <img src="assets/7.jpeg" alt="Image Description"  style="width: 33%;">
-    <img src="assets/4.jpeg" alt="Image Description"  style="width: 33%;">
-    <img src="assets/8.jpeg" alt="Image Description"  style="width: 33%;">
+    <img src="assets/7.jpeg" alt="Image Description"  style="width: 30%;">
+    <img src="assets/4.jpeg" alt="Image Description"  style="width: 30%;">
+    <img src="assets/8.jpeg" alt="Image Description"  style="width: 30%;">
   </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
