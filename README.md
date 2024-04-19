@@ -6,19 +6,24 @@
 
 ### React-Native CRIME Uploading Mobile App using REST-API Integration
 How It works:
-- Home Page
-<img src="ss-images/homeV1.jpg" alt="Image Description" width="300" height="550">
-
-- Product Details Page
+- Login, Registration, Splash Screens
   <div style="display: flex; justify-content: space-between; height: 550px;">
-    <img src="ss-images/detailsV1-1.jpg" alt="Image Description" style="width: 48%;">
-    <img src="ss-images/detailsV1-2.jpg" alt="Image Description" style="width: 48%;">
+    <img src="assets/10.jpeg" alt="Image Description" style="width: 33%;">
+    <img src="assets/3.jpeg" alt="Image Description" style="width: 33%;">
+    <img src="assets/9.jpeg" alt="Image Description" style="width: 33%;">
   </div>
 
-- Search Page
+- Home Screen, Profile Screen
   <div style="display: flex; justify-content: space-between; height: 550px;">
-    <img src="ss-images/searchV1-1.png" alt="Image Description"  style="width: 48%;">
-    <img src="ss-images/searchV1-2.png" alt="Image Description"  style="width: 48%;">
+    <img src="assets/5.jpeg" alt="Image Description" style="width: 48%;">
+    <img src="assets/6.jpeg" alt="Image Description" style="width: 48%;">
+  </div>
+
+- Crime Reporting Screen
+  <div style="display: flex; justify-content: space-between; height: 550px;">
+    <img src="assets/7.jpeg" alt="Image Description"  style="width: 33%;">
+    <img src="assets/4.jpeg" alt="Image Description"  style="width: 33%;">
+    <img src="assets/8.jpeg" alt="Image Description"  style="width: 33%;">
   </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
